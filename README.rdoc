@@ -1,11 +1,11 @@
 = MetadataCleaner
 
-  Clear metadata (profiles) from images
-  Remove all images metadata (profiles) in directory
+Clear metadata (profiles) from images
+Remove all images metadata (profiles) in directory
 
 == Dependents
 
-  You need have ImageMagick on your system with 'convert' command
+You need have ImageMagick on your system with 'convert' command
 
 == Install
 
