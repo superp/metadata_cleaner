@@ -15,10 +15,10 @@ You need have ImageMagick on your system with 'convert' command
 
 === From project
 
-  rake metadata:clean path=path/with/images
+  rake metadata:clean path=/path/with/images
 
 === Command Line Tool
 
-  metadata_cleaner path=path/with/images
+  metadata_cleaner /path/with/images
 
 Copyright (c) 2010 Brainberry, released under the MIT license
