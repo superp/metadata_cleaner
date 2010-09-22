@@ -39,7 +39,7 @@ begin
     gemspec.summary = "Clear metadata (profiles) from images"
     gemspec.description = "Remove all images metadata (profiles) in directory"
     gemspec.email = "superp1987@gmail.com"
-    gemspec.homepage = "git://github.com/Brainberry/metadata_cleaner.git"
+    gemspec.homepage = "http://github.com/Brainberry/metadata_cleaner"
     gemspec.authors = ["Pavlo Galeta", "Igor Galeta"]
     gemspec.files = FileList["[A-Z]*", "{lib}/**/*"]
     gemspec.rubyforge_project = "metadata_cleaner"

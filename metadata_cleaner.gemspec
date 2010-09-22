@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
      "lib/metadata_cleaner/version.rb",
      "lib/tasks/metadata_cleaner.rake"
   ]
-  s.homepage = %q{git://github.com/Brainberry/metadata_cleaner.git}
+  s.homepage = %q{http://github.com/Brainberry/metadata_cleaner}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubyforge_project = %q{metadata_cleaner}
