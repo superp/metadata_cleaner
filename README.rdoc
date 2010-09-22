@@ -11,7 +11,7 @@ You need have ImageMagick on your system with 'convert' command
 
   rails plugin install git://github.com/Brainberry/metadata_cleaner.git
   
-===OR
+===or
 
   sudo gem install metadata_cleaner
 
