@@ -1,0 +1,24 @@
+= MetadataCleaner
+
+  Clear metadata (profiles) from images
+  Remove all images metadata (profiles) in directory
+
+== Dependents
+
+  You need have ImageMagick on your system with 'convert' command
+
+== Install
+
+  rails plugin install git://github.com/Brainberry/metadata_cleaner.git
+
+== Usage
+
+=== From project
+
+  rake metadata:clean path=path/with/images
+
+=== Command Line Tool
+
+  metadata_cleaner path=path/with/images
+
+Copyright (c) 2010 Brainberry, released under the MIT license

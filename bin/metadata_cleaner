@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH.unshift File.dirname(__FILE__) + '/../lib'
+require 'metadata_cleaner'
+
+path = (ENV['path'] || '')
+    
+cleaner = MetadataCleaner::Cleaner.new(path)
+cleaner.start
