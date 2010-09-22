@@ -1,6 +1,6 @@
 = MetadataCleaner
 
-Clear metadata (profiles) from images
+Clear metadata (profiles) from images.
 Remove all images metadata (profiles) in directory
 
 == Dependents
