@@ -2,6 +2,7 @@
 
 Clear metadata (profiles) from images.
 Remove all images metadata (profiles) in directory
+
 <b>In linux your can type: </b>
   find . -name '*.jpg' -exec mogrify -strip {}\;
 
